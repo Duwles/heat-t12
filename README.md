@@ -1,1 +1,1 @@
-# solder-wizard
+# Heat-T12 solder station
